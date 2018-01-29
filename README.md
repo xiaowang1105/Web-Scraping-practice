@@ -1,5 +1,7 @@
 # 网络爬虫小项目练习
 一些自制的小程序
+## 0.0 经典书籍部分重现
+Chapter1 和 chaoter2重复了书本《Web Scraping with Python: Collecting Data from the Modern Web》第一章、第二章内容
 ## 1.0 基本的教程(basic_tutorial)：
 在教程中，回顾了基本的urllib的使用、cookie的使用
 ## 2.0 抓取糗事百科(scrapy_qiushi):
@@ -7,5 +9,5 @@
 这个练习，可以熟悉正则表达式的使用
 ## 3.0 抓取百度贴吧(scrapy_tieba):
 熟悉稍微大一点数据量的爬虫，文件写入操作
-## 4.0 爬去1p3a并且可视化(1p3a):
-熟悉如何整理、清洗爬虫得来的数据
+## 4.0 爬去录取信息一亩三分地的数据并且将其可视化(1p3a):
+熟悉如何整理、清洗爬虫得来的数据（仅作学术用途，侵删）
