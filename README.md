@@ -1,5 +1,5 @@
 # 网络爬虫小项目练习
-一些自制的小程序
+一些自制的例子
 ## 0.0 经典书籍部分重现
 Chapter1 和 chaoter2重复了书本《Web Scraping with Python: Collecting Data from the Modern Web》第一章、第二章内容
 ## 1.0 基本的教程(basic_tutorial)：
