@@ -11,9 +11,7 @@ Chapter1和chapter2重复了书本《Web Scraping with Python: Collecting Data f
 熟悉稍微大一点数据量的爬虫，文件写入操作
 ## 4.0 爬去一亩三分地录取信息的数据并且将其可视化 (1p3a.ipynb):
 熟悉如何整理、清洗爬虫得来的数据（仅作学术用途，侵删）
----
 下图是2017年的ad发放情况：
 <img src="images/ad of 2017.png" style="width:1257px;height:851px;">
----
 下图是2017年的rej发放情况：
 <img src="images/rej of 2017.png" style="width:1275px;height:860px;">
